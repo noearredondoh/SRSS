@@ -9,7 +9,7 @@ If I told you a word started with 0x70 in hexadecimal, what would it start with 
 picoCTF{p}
 
 ## Solucion 2
-- Ir al interprete de pyhton
+- Ir al interprete de pyhton y teclear los comandos
 ```
 NoeAH-academy@webshell:~$ python
 Python 3.10.12 (main, Mar  3 2026, 11:56:32) [GCC 11.4.0] on linux
