@@ -1,7 +1,7 @@
 
-## Descripcion
+## Descripción
 
-## Solucion
+## Solución
 
 ## Notas adicionales
 
