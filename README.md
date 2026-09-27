@@ -6,9 +6,3 @@
 - Noe Arredondo Hernandez
 - noearredondo2018@gamil.com
 
-## General Skills
-- Reto 1
-- Reto 2
-- Reto 3
-
-## Web

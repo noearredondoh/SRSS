@@ -24,7 +24,7 @@ admin' OR '1'='1
 - **Vulnerabilidad:** Inyección SQL (SQL Injection - Authentication Bypass).
 
 - **Causa:** El servidor concatena directamente las entradas del usuario en la consulta SQL sin sanitizarlas (`SELECT * FROM users WHERE username = '$user' AND password = '$pass'`).
--
+
 - **Efecto del payload:** Al inyectar `' OR '1'='1`, la condición evalúa siempre a `TRUE` (verdadero), ignorando la validación de la contraseña y permitiendo el inicio de sesión.
 
 ## Referencias
