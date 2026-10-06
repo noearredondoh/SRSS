@@ -6,7 +6,6 @@
       {
         "id": "3eebe624e35abf10",
         "type": "tabs",
-        "dimension": 82.88590604026845,
         "children": [
           {
             "id": "9188cac0f1cb8c01",
@@ -56,33 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Examen Parcial/Parte 2 - Web/10 - WebSockFish.md",
+                "file": "12 - Forensic 3/05 - MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - WebSockFish"
+              "title": "05 - MacroHard WeakEdge"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "4f6777c3bc08af85",
-        "type": "tabs",
-        "dimension": 17.114093959731544,
-        "children": [
-          {
-            "id": "66f736d24423d2c5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "12 - Forensic 3/05 - MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -234,39 +216,42 @@
   },
   "active": "4f71a85c87c0e20d",
   "lastOpenFiles": [
-    "Primer Examen Parcial/Parte 2 - Web/09 - STTI2.md",
-    "Primer Examen Parcial/Parte 2 - Web/08 - SSTI1.md",
-    "Primer Examen Parcial/Parte 2 - Web/10 - WebSockFish.md",
+    "12 - Forensic 3/01 - WebNet0.md",
+    "12 - Forensic 3/02 - WebNet1.md",
+    "12 - Forensic 3/03 - Matryoshka doll.md",
+    "12 - Forensic 3/04 - tunn3l v1s10n.md",
+    "12 - Forensic 3/05 - MacroHard WeakEdge.md",
+    "Pasted image 20261006001409.png",
+    "02 - General Skills 2",
     "Plantilla.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/10 - SansAlpha.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/09 - Rust fixme 3.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/08 - Rust fixme 2.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/07 - Rust fixme 1.md",
-    "Primer Examen Parcial/Parte 2 - Web/07 - SQL Direct.md",
-    "Primer Examen Parcial/Parte 2 - Web/06 - n0s4n1ty 1.md",
-    "Primer Examen Parcial/Parte 2 - Web/05 - Java Code Analysis!!.md",
-    "Primer Examen Parcial/Parte 2 - Web/04 - head - dump.md",
+    "README.md",
+    "Pasted image 20261005105846.png",
+    "09 - Primer Examen Parcial/Parte 2 - Web/10 - WebSockFish.md",
+    "12 - Forensic 3",
+    "09 - Primer Examen Parcial/Parte 2 - Web/09 - STTI2.md",
+    "09 - Primer Examen Parcial/Parte 2 - Web/08 - SSTI1.md",
+    "09 - Primer Examen Parcial/Parte 1 - General Skills/10 - SansAlpha.md",
+    "09 - Primer Examen Parcial/Parte 1 - General Skills/09 - Rust fixme 3.md",
+    "09 - Primer Examen Parcial/Parte 1 - General Skills/08 - Rust fixme 2.md",
+    "09 - Primer Examen Parcial/Parte 1 - General Skills/07 - Rust fixme 1.md",
+    "09 - Primer Examen Parcial/Parte 2 - Web/07 - SQL Direct.md",
+    "09 - Primer Examen Parcial/Parte 2 - Web/06 - n0s4n1ty 1.md",
+    "09 - Primer Examen Parcial/Parte 2 - Web/05 - Java Code Analysis!!.md",
+    "09 - Primer Examen Parcial/Parte 2 - Web/04 - head - dump.md",
     "Pasted image 20261003204039.png",
     "Pasted image 20261003203649.png",
-    "Primer Examen Parcial/Parte 2 - Web/03 - findme.md",
-    "Primer Examen Parcial",
-    "Primer Examen Parcial/Parte 2 - Web/02 - Cookie Monster Secret Recipe.md",
-    "Primer Examen Parcial/Parte 2 - Web/01 - Bookmarklet.md",
-    "Primer Examen Parcial/Parte 2 - Web",
-    "README.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/06 - Python Wrangling.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/05 - HashingJobApp.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/02 - Wave a flag.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/03 - flag_shop.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/04 - FANTASY CTF.md",
-    "Primer Examen Parcial/Parte 1 - General Skills/01 - dont-you-love-banners.md",
-    "01 - General Skills/13 - Wave a flag.md",
-    "Forensic 2/05 - shark on wire 2.md",
-    "Primer Examen Parcial/Parte 1 - General Skills",
-    "Forensic 2/04 - like1000.md",
-    "Forensic 2/03 - c0rrupt.md",
-    "Forensic 2",
-    "Forensic 1",
+    "09 - Primer Examen Parcial/Parte 2 - Web/03 - findme.md",
+    "09 - Primer Examen Parcial",
+    "09 - Primer Examen Parcial/Parte 2 - Web/02 - Cookie Monster Secret Recipe.md",
+    "09 - Primer Examen Parcial/Parte 2 - Web/01 - Bookmarklet.md",
+    "09 - Primer Examen Parcial/Parte 2 - Web",
+    "09 - Primer Examen Parcial/Parte 1 - General Skills/06 - Python Wrangling.md",
+    "09 - Primer Examen Parcial/Parte 1 - General Skills/05 - HashingJobApp.md",
+    "09 - Primer Examen Parcial/Parte 1 - General Skills/02 - Wave a flag.md",
+    "09 - Primer Examen Parcial/Parte 1 - General Skills/03 - flag_shop.md",
+    "09 - Primer Examen Parcial/Parte 1 - General Skills",
+    "11 - Forensic 2",
+    "10 - Forensic 1",
     "01 - General Skills/Forensic 1",
     "Pasted image 20260926203631.png",
     "Pasted image 20260926203552.png",

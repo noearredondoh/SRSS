@@ -24,6 +24,10 @@ window.WebSocket = function(url, protocols) {
 };
 ```
 
+```
+academy{cl13nt_s1d3_w3b_s0ck3t5_c8e7db95}
+```
+
 el titulo nos da dos pistas WebSocket que es un protocolo y stockfish que nos da la pista de una aplicacion de ajedrez tal vez en tiempo real o en el backend Vamos a abrir la opcion de inspeccionar elemento y vamos a buscar la linea donde esta el webSocket para buscar la linea exacta de ejecucion nos vamos a la pestana Source y damos `Ctrl+Shift+F` damos doble click a el resultado y con ello nos mandara a la linea exacta ahora damos click en el numero de la linea para que se ponga azul asi creamos un breackpoint cuando recarguemos la pagina ahi se quedara el codigo, rapidamente depues de recargar la pagina vamos a la pestana de consola y pegamos este codigo
 
 const OriginalWebSocket = window.WebSocket; window.WebSocket = function(url, protocols) { const ws = new OriginalWebSocket(url, protocols); const originalSend = ws.send.bind(ws); ws.send = function(data) { console.log("ENVIANDO ORIGINAL:", data); if (typeof data === "string" && data.startsWith("eval")) { data = "eval -1300000000"; console.log("ENVIANDO MODIFICADO:", data); } originalSend(data); }; ws.addEventListener("message", (e) => { console.log("RECIBIDO:", e.data); }); return ws; };
