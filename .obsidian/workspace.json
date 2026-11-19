@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24 - Reversing 4/03 - Need For Speed.md",
+                "file": "01 - General Skills/55 - Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Need For Speed"
+              "title": "55 - Trickster"
             }
           }
         ],
@@ -216,9 +216,11 @@
   },
   "active": "4f71a85c87c0e20d",
   "lastOpenFiles": [
+    "01 - General Skills/56 - Most Cookies.md",
+    "01 - General Skills/55 - Trickster.md",
+    "24 - Reversing 4/03 - Need For Speed.md",
     "24 - Reversing 4/02 - reverse_cipher.md",
     "24 - Reversing 4/01 - GDB Test Drive.md",
-    "24 - Reversing 4/03 - Need For Speed.md",
     "Plantilla.md",
     "README.md",
     "23 - Reversing 3/03 - asm3.md",
@@ -243,8 +245,6 @@
     "20 - Segundo Examen Parcial/Parte 2 - Crypto/02 - rotation.md",
     "20 - Segundo Examen Parcial/Parte 2 - Crypto/01 - basic-mod2.md",
     "20 - Segundo Examen Parcial/Parte 2 - Crypto/05 - transposition-trial.md",
-    "20 - Segundo Examen Parcial/Parte 1 - Forensic/10 - DISKO 4.md",
-    "20 - Segundo Examen Parcial/Parte 1 - Forensic/05 - Flag in Flame.md",
     "20 - Segundo Examen Parcial/Parte 2 - Crypto",
     "20 - Segundo Examen Parcial/Parte 1 - Forensic",
     "21 - Reversing",
