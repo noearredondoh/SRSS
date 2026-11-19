@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23 - Reversing 3/03 - asm3.md",
+                "file": "24 - Reversing 4/03 - Need For Speed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - asm3"
+              "title": "03 - Need For Speed"
             }
           }
         ],
@@ -216,10 +216,15 @@
   },
   "active": "4f71a85c87c0e20d",
   "lastOpenFiles": [
+    "24 - Reversing 4/02 - reverse_cipher.md",
+    "24 - Reversing 4/01 - GDB Test Drive.md",
+    "24 - Reversing 4/03 - Need For Speed.md",
+    "Plantilla.md",
+    "README.md",
+    "23 - Reversing 3/03 - asm3.md",
+    "24 - Reversing 4",
     "23 - Reversing 3/02 - asm2.md",
     "23 - Reversing 3/01 - asm1.md",
-    "23 - Reversing 3/03 - asm3.md",
-    "Plantilla.md",
     "22 - Reversing 2/06 - Picker IV.md",
     "23 - Reversing 3",
     "22 - Reversing 2/05 - Picker III.md",
@@ -240,10 +245,6 @@
     "20 - Segundo Examen Parcial/Parte 2 - Crypto/05 - transposition-trial.md",
     "20 - Segundo Examen Parcial/Parte 1 - Forensic/10 - DISKO 4.md",
     "20 - Segundo Examen Parcial/Parte 1 - Forensic/05 - Flag in Flame.md",
-    "20 - Segundo Examen Parcial/Parte 1 - Forensic/06 - Corrupted File.md",
-    "20 - Segundo Examen Parcial/Parte 1 - Forensic/08 - Timeline 0.md",
-    "20 - Segundo Examen Parcial/Parte 1 - Forensic/09 - Timeline 1.md",
-    "20 - Segundo Examen Parcial/Parte 1 - Forensic/07 - Binary Digits.md",
     "20 - Segundo Examen Parcial/Parte 2 - Crypto",
     "20 - Segundo Examen Parcial/Parte 1 - Forensic",
     "21 - Reversing",
@@ -252,7 +253,6 @@
     "19 - Tarea 5 Crypto",
     "18 - Crypto 4",
     "17 - Crypto 3",
-    "14 - Tarea 4 Forensic",
     "Pasted image 20261006001409.png",
     "Pasted image 20261005105846.png",
     "Pasted image 20261003204039.png",
